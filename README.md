@@ -1,4 +1,8 @@
-zure AI Language – Text Analytics Lab
+# ijaz-ahmad
+# 01/18/2024 
+# Text Analysis using Azure AI Language Service
+
+Azure AI Language – Text Analytics Lab
 
 This project demonstrates how to use Azure AI Language (Text Analytics) with Python to analyze unstructured text. The lab performs language detection, sentiment analysis, key phrase extraction, and entity recognition on sample text files using the Azure SDK.
 
